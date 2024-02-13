@@ -1,0 +1,12 @@
+{
+    "version": "0.1.0",
+    "root": "/usr/libexec/mews_principal/",
+    "device": {
+        "id": "21e46d2b2b926cba031a23c6919"
+    },
+    "notifications": {
+        "email": "Turma-2TDCPR-2023@fiap.com.br",
+        "location": "São Paulo",
+        "country": "BR"
+    }
+}
